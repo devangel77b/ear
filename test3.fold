@@ -1,0 +1,82 @@
+{
+    "file_spec": 1,
+    "file_creator": "Python 3.13",
+    "file_author": "Dennis Evangelista",
+    "file_classes": [
+        "singleModel"
+    ],
+    "frame_title": "title",
+    "frame_classes": [
+        "creasePattern"
+    ],
+    "frame_attributes": [
+        "2D"
+    ],
+    "frame_unit": "unit",
+    "vertices_coords": [
+        [
+            0,
+            0
+        ],
+        [
+            1,
+            0
+        ],
+        [
+            1,
+            1
+        ],
+        [
+            0,
+            1
+        ]
+    ],
+    "edges_vertices": [
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            3,
+            0
+        ],
+        [
+            0,
+            2
+        ]
+    ],
+    "edges_assignment": [
+        "B",
+        "B",
+        "B",
+        "B",
+        "M"
+    ],
+    "faces_vertices": [
+        [
+            0,
+            1,
+            2
+        ],
+        [
+            2,
+            3,
+            0
+        ]
+    ],
+    "faceOrder": [
+        [
+            0,
+            1,
+            -1
+        ]
+    ]
+}
