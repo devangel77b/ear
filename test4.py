@@ -89,3 +89,4 @@ for i,a in enumerate(G['edges_assignment']):
 D.append(cuts)
 D.set_render_size('6in','6in') # TBD need better way to do scaling
 D.save_svg('test4.svg')
+#D.save_png('test4.png')
